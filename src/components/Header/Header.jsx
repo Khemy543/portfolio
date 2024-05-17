@@ -36,7 +36,7 @@ const Header = () => {
         <div className="container">
           <div className="st-main-header-in">
             <div className="st-main-header-left">
-              <Link className="st-site-branding" to='/' id="hero"><img src="/img/logo.png" alt="Gideon" /></Link>
+              <ScrollLink className="st-site-branding" to="home" spy={true} smooth={true} offset={-80} duration={500} onClick={() => setMobileToggle(false)}><img src="/img/logo.png" alt="Gideon" /></ScrollLink>
             </div>
             <div className="st-main-header-right">
               <div className="st-nav">
