@@ -1,0 +1,621 @@
+{
+  "heroData": {
+    "homeOneHero": {
+      "bgImgLink": "/images/background/hero-bg.jpg",
+      "imgLink": "/img/gideon.jpg",
+      "title": "Gideon <br /> Assafuah",
+      "subTitle": "Hello, I’m",
+      "designation": "Software Engineer"
+    },
+    "homeTwoHero": {
+      "imgAuthor": "/img/gideon.jpg",
+      "bgImgLink": "/images/background/hero-bg.jpg",
+      "title": "Hi, I am <span>Gideon Assafuah</span>",
+      "text": "I am a frontend web developer. I can provide clean code and pixel perfect design. <br>I also make website more & more interactive with web animations."
+    },
+    "homeThreeHero": {
+      "imgAuthor": "/img/gideon.jpg",
+      "bgImgLink": "/images/background/hero-bg-1.jpg",
+      "title": "Hi, I am <span>Gideon Assafuah</span>",
+      "text": "I specialize in full-stack development, machine learning, and artificial intelligence. With extensive experience in software engineering and a proven track record of optimizing performance and enhancing user engagement, I'm passionate about leveraging his technical skills to drive innovation in dynamic environments."
+    },
+    "homeFourHero": {
+      "imgAuthor": "/img/gideon.jpg",
+      "bgImgLink": "/images/background/hero-bg-2.jpg",
+      "title": "Hi, I am <span>Gideon Assafuah</span>",
+      "text": "I am a frontend web developer. I can provide clean code and pixel perfect design. <br>I also make website more & more interactive with web animations."
+    }
+  },
+  "aboutData": {
+    "imgLink": "/img/gideon.jpg",
+    "cvPdf": "/img/cv.pdf",
+    "title": "Hi There! I'm Gideon Assafuah",
+    "subtitle": "Software Engineer",
+    "text": "I am a Visual Designer with a strong focus on digital branding. Visul design seeks to attract, inspire, create desires and otivate people to respond to messages, with a view to making a favorable impact.",
+    "details": [
+      {
+        "title": "Birthday",
+        "info": "October 28, 1997"
+      },
+      {
+        "title": "Email",
+        "info": "gassafuah@gmail.com"
+      },
+      {
+        "title": "From",
+        "info": "Norfolk, VA, USA"
+      },
+      {
+        "title": "Language",
+        "info": "English"
+      },
+      {
+        "title": "Freelance",
+        "info": "Available"
+      }
+    ]
+  },
+  "serviceData": {
+    "services": [
+      {
+        "imgLink": "./images/icon/icon1.png",
+        "title": "Sketches",
+        "text": "Lorem ipsum dolor sittem ametamn elit, per sed do eiusmoad teimpor sittem elit inuning utsed sittem.",
+        "effect": "zoom-out-up",
+        "duration": "500",
+        "delay": "200"
+      },
+      {
+        "imgLink": "./images/icon/icon2.png",
+        "title": "UI/UX Design",
+        "text": "Lorem ipsum dolor sittem ametamn elit, per sed do eiusmoad teimpor sittem elit inuning utsed sittem.",
+        "effect": "zoom-out-up",
+        "duration": "500",
+        "delay": "300"
+      },
+      {
+        "imgLink": "./images/icon/icon3.png",
+        "title": "Product Design",
+        "text": "Lorem ipsum dolor sittem ametamn elit, per sed do eiusmoad teimpor sittem elit inuning utsed sittem.",
+        "effect": "zoom-out-up",
+        "duration": "500",
+        "delay": "400"
+      },
+      {
+        "imgLink": "./images/icon/icon4.png",
+        "title": "App Design",
+        "text": "Lorem ipsum dolor sittem ametamn elit, per sed do eiusmoad teimpor sittem elit inuning utsed sittem.",
+        "effect": "zoom-out-up",
+        "duration": "500",
+        "delay": "500"
+      },
+      {
+        "imgLink": "./images/icon/icon5.png",
+        "title": "Motion Graphics",
+        "text": "Lorem ipsum dolor sittem ametamn elit, per sed do eiusmoad teimpor sittem elit inuning utsed sittem.",
+        "effect": "zoom-out-up",
+        "duration": "500",
+        "delay": "600"
+      },
+      {
+        "imgLink": "./images/icon/icon6.png",
+        "title": "Responsive Design",
+        "text": "Lorem ipsum dolor sittem ametamn elit, per sed do eiusmoad teimpor sittem elit inuning utsed sittem.",
+        "effect": "zoom-out-up",
+        "duration": "500",
+        "delay": "700"
+      }
+    ]
+  },
+  "skillData": {
+    "title": "All the skills that I have in that field of work are mentioned.",
+    "text": "I possess a diverse and robust set of technical skills, honed through rigorous academic training and extensive professional experience. My expertise spans various programming languages, development frameworks, and tools, enabling me to build efficient, scalable, and high-quality software solutions. Below is a detailed list of my technical skills:",
+    "skills": [
+      {
+        "title": "TypeScript",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "200"
+      },
+      {
+        "title": "JavaScript",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "200"
+      },
+      {
+        "title": "C++",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "300"
+      },
+      {
+        "title": "C#",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "400"
+      },
+      {
+        "title": "React.js",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "500"
+      },
+      {
+        "title": "Vue.js",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "600"
+      },
+      {
+        "title": "HTML CSS",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "700"
+      },
+      {
+        "title": "Node.js",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "700"
+      },
+      {
+        "title": "Express.js",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "700"
+      }
+    ]
+  },
+  "portfolioData": {
+    "portfolioItems": [
+      {
+        "imgLink": "./images/portfolio/portfolio1.jpg",
+        "imgLinkLg": "./images/portfolio/portfolio1_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "200"
+      },
+      {
+        "imgLink": "./images/portfolio/portfolio2.jpg",
+        "imgLinkLg": "./images/portfolio/portfolio2_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "300"
+      },
+      {
+        "imgLink": "./images/portfolio/portfolio3.jpg",
+        "imgLinkLg": "./images/portfolio/portfolio3_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "400"
+      },
+      {
+        "imgLink": "./images/portfolio/portfolio4.jpg",
+        "imgLinkLg": "./images/portfolio/portfolio4_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "500"
+      },
+      {
+        "imgLink": "./images/portfolio/portfolio5.jpg",
+        "imgLinkLg": "./images/portfolio/portfolio5_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "600"
+      },
+      {
+        "imgLink": "./images/portfolio/portfolio6.jpg",
+        "imgLinkLg": "./images/portfolio/portfolio6_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "700"
+      },
+      {
+        "imgLink": "./images/portfolio/portfolio1.jpg",
+        "imgLinkLg": "./images/portfolio/portfolio1_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "200"
+      },
+      {
+        "imgLink": "./images/portfolio/portfolio2.jpg",
+        "imgLinkLg": "./images/portfolio/portfolio2_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "300"
+      },
+      {
+        "imgLink": "./images/portfolio/portfolio3.jpg",
+        "imgLinkLg": "./images/portfolio/portfolio3_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "400"
+      },
+      {
+        "imgLink": "./images/portfolio/portfolio4.jpg",
+        "imgLinkLg": "./images/portfolio/portfolio4_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "500"
+      },
+      {
+        "imgLink": "./images/portfolio/portfolio5.jpg",
+        "imgLinkLg": "./images/portfolio/portfolio5_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "600"
+      },
+      {
+        "imgLink": "./images/portfolio/portfolio6.jpg",
+        "imgLinkLg": "./images/portfolio/portfolio6_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "700"
+      },
+      {
+        "imgLink": "./images/portfolio/portfolio1.jpg",
+        "imgLinkLg": "./images/portfolio/portfolio1_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "200"
+      },
+      {
+        "imgLink": "./images/portfolio/portfolio2.jpg",
+        "imgLinkLg": "./images/portfolio/portfolio2_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "300"
+      },
+      {
+        "imgLink": "./images/portfolio/portfolio3.jpg",
+        "imgLinkLg": "./images/portfolio/portfolio3_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "400"
+      },
+      {
+        "imgLink": "./images/portfolio/portfolio4.jpg",
+        "imgLinkLg": "./images/portfolio/portfolio4_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "500"
+      },
+      {
+        "imgLink": "./images/portfolio/portfolio5.jpg",
+        "imgLinkLg": "./images/portfolio/portfolio5_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "600"
+      },
+      {
+        "imgLink": "./images/portfolio/portfolio6.jpg",
+        "imgLinkLg": "./images/portfolio/portfolio6_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "700"
+      },
+      {
+        "imgLink": "./images/portfolio/portfolio1.jpg",
+        "imgLinkLg": "./images/portfolio/portfolio1_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "200"
+      },
+      {
+        "imgLink": "./images/portfolio/portfolio2.jpg",
+        "imgLinkLg": "./images/portfolio/portfolio2_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "300"
+      },
+      {
+        "imgLink": "./images/portfolio/portfolio3.jpg",
+        "imgLinkLg": "./images/portfolio/portfolio3_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "400"
+      },
+      {
+        "imgLink": "./images/portfolio/portfolio4.jpg",
+        "imgLinkLg": "./images/portfolio/portfolio4_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "500"
+      },
+      {
+        "imgLink": "./images/portfolio/portfolio5.jpg",
+        "imgLinkLg": "./images/portfolio/portfolio5_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "600"
+      }
+    ]
+  },
+  "blogData": {
+    "useFor": "blog",
+    "sliderSetting": {
+      "infinite": true,
+      "speed": 500,
+      "slidesToShow": 3,
+      "slidesToScroll": 1,
+      "arrows": false,
+      "responsive": [
+        {
+          "breakpoint": 991,
+          "settings": {
+            "slidesToShow": 2,
+            "autoplay": true
+          }
+        },
+        {
+          "breakpoint": 767,
+          "settings": {
+            "slidesToShow": 1,
+            "autoplay": true
+          }
+        }
+      ]
+    },
+    "informations": [
+      {
+        "imgLink": "./images/blog/blog1.jpg",
+        "designation": "Admin",
+        "date": "07-03-2023",
+        "title": "latest trends in Graphic design according to you?",
+        "href": "/blog/blog-details"
+      },
+      {
+        "imgLink": "./images/blog/blog2.jpg",
+        "designation": "Admin",
+        "date": "07-03-2023",
+        "title": "What are the latest trends in Graphic design according to you?",
+        "href": "/blog/blog-details"
+      },
+      {
+        "imgLink": "./images/blog/blog3.jpg",
+        "designation": "Admin",
+        "date": "07-03-2023",
+        "title": "Trends in Graphic design according to you?",
+        "href": "/blog/blog-details"
+      },
+      {
+        "imgLink": "./images/blog/blog1.jpg",
+        "designation": "Admin",
+        "date": "07-03-2023",
+        "title": "What are the latest trends in Graphic design according to you?",
+        "href": "/blog/blog-details"
+      },
+      {
+        "imgLink": "./images/blog/blog2.jpg",
+        "designation": "Admin",
+        "date": "07-03-2023",
+        "title": "The latest trends in Graphic design according to you?",
+        "href": "/blog/blog-details"
+      },
+      {
+        "imgLink": "./images/blog/blog3.jpg",
+        "designation": "Admin",
+        "date": "07-03-2023",
+        "title": "What are the latest trends in Graphic design according to you?",
+        "href": "/blog/blog-details"
+      }
+    ]
+  },
+  "reviewData": {
+    "useFor": "review",
+    "sliderSetting": {
+      "infinite": true,
+      "speed": 500,
+      "slidesToShow": 3,
+      "slidesToScroll": 1,
+      "arrows": false,
+      "responsive": [
+        {
+          "breakpoint": 991,
+          "settings": {
+            "slidesToShow": 2,
+            "autoplay": true
+          }
+        },
+        {
+          "breakpoint": 767,
+          "settings": {
+            "slidesToShow": 1,
+            "autoplay": true
+          }
+        }
+      ]
+    },
+    "informations": [
+      {
+        "imgLink": "./images/client/client1.png",
+        "title": "Richard Miles",
+        "designation": "Chairman",
+        "text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ullam accusamus autem itaque blanditiis enim debitis totam facilis reiciendis voluptate aspernatur!"
+      },
+      {
+        "imgLink": "./images/client/client2.png",
+        "title": "Vesta Shufelt",
+        "designation": "Executive Director",
+        "text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ullam accusamus autem itaque blanditiis enim debitis totam facilis reiciendis voluptate aspernatur!"
+      },
+      {
+        "imgLink": "./images/client/client3.png",
+        "title": "Joseph Alves",
+        "designation": "Managing Director",
+        "text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ullam accusamus autem itaque blanditiis enim debitis totam facilis reiciendis voluptate aspernatur!"
+      },
+      {
+        "imgLink": "./images/client/client1.png",
+        "title": "Richard Miles",
+        "designation": "Chairman",
+        "text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ullam accusamus autem itaque blanditiis enim debitis totam facilis reiciendis voluptate aspernatur!"
+      },
+      {
+        "imgLink": "./images/client/client2.png",
+        "title": "Vesta Shufelt",
+        "designation": "Executive Director",
+        "text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ullam accusamus autem itaque blanditiis enim debitis totam facilis reiciendis voluptate aspernatur!"
+      },
+      {
+        "imgLink": "./images/client/client3.png",
+        "title": "Joseph Alves",
+        "designation": "Managing Director",
+        "text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ullam accusamus autem itaque blanditiis enim debitis totam facilis reiciendis voluptate aspernatur!"
+      }
+    ]
+  },
+  "resumeData": {
+    "experienceTitle": "Experience",
+    "experience": [
+      {
+        "title": "Graduate Assistant",
+        "duration": "August 2023 — Present",
+        "subTitle": "Norfolk State Univeristy",
+        "text": "",
+        "roles": [
+          "Conducting research in the field of machine learning and artificial intelligence.",
+          "Developing and implementing algorithms for data analysis and predictive modeling.",
+          "Organized and managed a series of student events and workshops, resulting in a 40% increase in student engagement.",
+          "Assisted faculty members with research project and data analysis",
+          "Provided individualized support and guidance to students seeking assistance with C++ programming assignments and projects."
+        ]
+      },
+      {
+        "title": "Software Engineer",
+        "duration": "January 2022 — August 2023",
+        "subTitle": "ERPGap PromtEQUATION",
+        "text": "",
+        "roles": [
+          "Designed, implemented, and maintained software solutions in collaboration with a dedicated team, ensuring alignment with client requirements and project goals.",
+          "Optimized application performance by 25% through advanced caching strategies and efficient code optimization.",
+          "Partnered with QA engineers to identify, troubleshoot, and resolve software defects, reducing post-release issues by 30%.",
+          "Developed front-end components using React.js and Vue.js and built scalable back-end applications with Node.js.",
+          "Employed best practices in software development, including version control (Git), continuous integration/deployment (CI/CD), and containerization with Docker.",
+          "Conducted code reviews to ensure quality and consistency, and facilitated agile development processes, enhancing team productivity and project outcomes."
+        ]
+      },
+      {
+        "title": "Software Engineer",
+        "duration": "January 2019 — January 2022",
+        "subTitle": "Walulel, Ghana",
+        "roles": [
+          "Developed and maintained robust web applications using React.js and Node.js, optimizing performance and ensuring high responsiveness.",
+          "Designed and implemented efficient database schemas with SQL and MongoDB, improving data retrieval and storage processes.",
+          "Collaborated with cross-functional teams to gather requirements, plan projects, and deliver high-quality software solutions.",
+          "Conducted thorough testing and debugging, significantly reducing system errors and enhancing user experience.",
+          "Applied best practices in software development, including code reviews, version control (Git), and continuous integration/deployment (CI/CD).",
+          "Enhanced application performance through code optimization and caching strategies.",
+          "Participated in agile methodologies, contributing to sprint planning, daily stand-ups, and retrospectives, improving team productivity.",
+          "Mentored junior developers, fostering a collaborative and knowledge-sharing environment."
+        ]
+      }
+    ],
+    "educationTitle": "Education",
+    "education": [
+      {
+        "title": "Master of Computer Science",
+        "duration": "2023 - Present",
+        "subTitle": "Norfolk State University <br/> Norfolk, VA, USA",
+        "text": "Machine Learning, Artificial Intelligence, Full-Stack Development, Data Structures and Algorithms, Database Management Systems, Web Development, Software Engineering, Computer Security, Computer Organization and Architecture.",
+        "roles": []
+      },
+      {
+        "title": "Bachelor of Computer Engineering",
+        "duration": "2015 - 2019",
+        "subTitle": "Kwame Nkrumah University of Science and Technology, Kumasi, Ghana",
+        "text": "Data Structures and Algorithms, Digital Logic Design, Operating Systems, Microprocessors and Microcontrollers, Software Engineering, VLSI Design, Electronics and Circuit Theory.",
+        "roles": []
+      }
+    ]
+  },
+  "contactData": {
+    "formTitle": "Just say Hello",
+    "title": "Contact Info",
+    "subTitle": "Visite my social profile and get connected",
+    "text": "For any inquiries or collaboration opportunities, please feel free to reach out via email at ",
+    "email": "gassafuah@gmail.com",
+    "support": "gassafuah@gamil.com",
+    "primaryContact": "+1 737-572-0720",
+    "secondaryContact": "+1 737-572-0720",
+    "address": "Norfolk, VA, USA"
+  },
+  "socialData": [
+    {
+      "icon": "github",
+      "title": "Github",
+      "link": "https://github.com/Khemy543"
+    },
+    {
+      "icon": "linkedin",
+      "title": "LinkedIn",
+      "link": "https://www.linkedin.com/in/gideon-assafuah-868536160/"
+    },
+    {
+      "icon": "medium",
+      "title": "Medium",
+      "link": "https://medium.com/@gassafuah"
+    }
+  ],
+  "socialData2": [
+    {
+      "icon": "facebook-f",
+      "link": "/facebook"
+    },
+    {
+      "icon": "twitter",
+      "link": "/twitter"
+    },
+    {
+      "icon": "github",
+      "link": "/github"
+    }
+  ]
+}
