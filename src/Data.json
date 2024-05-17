@@ -59,48 +59,40 @@
     "services": [
       {
         "imgLink": "./images/icon/icon1.png",
-        "title": "Sketches",
-        "text": "Lorem ipsum dolor sittem ametamn elit, per sed do eiusmoad teimpor sittem elit inuning utsed sittem.",
+        "title": "Software Engineering and Development",
+        "text": "Comprehensive software development from requirement analysis to maintenance, including performance and scalability optimization.",
         "effect": "zoom-out-up",
         "duration": "500",
         "delay": "200"
       },
       {
         "imgLink": "./images/icon/icon2.png",
-        "title": "UI/UX Design",
-        "text": "Lorem ipsum dolor sittem ametamn elit, per sed do eiusmoad teimpor sittem elit inuning utsed sittem.",
+        "title": "Database Design and Management",
+        "text": "Design and implementation of efficient database schemas using MySQL and MongoDB.Database optimization and migration services.",
         "effect": "zoom-out-up",
         "duration": "500",
         "delay": "300"
       },
       {
         "imgLink": "./images/icon/icon3.png",
-        "title": "Product Design",
-        "text": "Lorem ipsum dolor sittem ametamn elit, per sed do eiusmoad teimpor sittem elit inuning utsed sittem.",
+        "title": "Machine Learning and AI Solutions",
+        "text": "Creating predictive models with Python and Scikit-learn, and implementing machine learning solutions for data analysis.",
         "effect": "zoom-out-up",
         "duration": "500",
         "delay": "400"
       },
       {
-        "imgLink": "./images/icon/icon4.png",
-        "title": "App Design",
-        "text": "Lorem ipsum dolor sittem ametamn elit, per sed do eiusmoad teimpor sittem elit inuning utsed sittem.",
-        "effect": "zoom-out-up",
-        "duration": "500",
-        "delay": "500"
-      },
-      {
         "imgLink": "./images/icon/icon5.png",
-        "title": "Motion Graphics",
-        "text": "Lorem ipsum dolor sittem ametamn elit, per sed do eiusmoad teimpor sittem elit inuning utsed sittem.",
+        "title": "DevOps and Cloud Integration",
+        "text": "Deployment and management of applications on cloud platforms like AWS. Implementation of CI/CD pipelines using Docker and Kubernetes.",
         "effect": "zoom-out-up",
         "duration": "500",
         "delay": "600"
       },
       {
         "imgLink": "./images/icon/icon6.png",
-        "title": "Responsive Design",
-        "text": "Lorem ipsum dolor sittem ametamn elit, per sed do eiusmoad teimpor sittem elit inuning utsed sittem.",
+        "title": "Technical Consulting and Training",
+        "text": "Offering expert advice on technology stack, project planning, and best practices, plus workshops on programming and development tools.",
         "effect": "zoom-out-up",
         "duration": "500",
         "delay": "700"
