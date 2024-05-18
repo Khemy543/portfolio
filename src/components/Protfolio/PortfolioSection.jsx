@@ -8,11 +8,11 @@ import Modal from '../Modal/Modal';
 const PortfolioSection = ({ data }) => {
   // Modal
   const [modal, setModal] = useState(false);
-  const [tempData, setTempData] = useState([]);
+  const [tempData, setTempData] = useState({});
 
-  const getData = (imgLink, title, subTitle) => {
-    let tempData = [imgLink, title, subTitle];
-    setTempData(item => [1, ...tempData]);
+  const getData = (data) => {
+    let tempData = data;
+    setTempData(item => tempData);
     setModal(true);
   }
 
@@ -69,7 +69,7 @@ const PortfolioSection = ({ data }) => {
         </div>
         <div className="st-height-b100 st-height-lg-b80"></div>
       </section>
-      {modal === true ? <Modal img={tempData[1]} title={tempData[2]} subTitle={tempData[3]} modalClose={modalClose} /> : ""}
+      {modal === true ? <Modal data={tempData} modalClose={modalClose} /> : ""}
     </>
   );
 };

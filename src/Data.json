@@ -166,15 +166,20 @@
         "imgLinkLg": "/img/gevenhout.png",
         "title": "Gevenhout",
         "subTitle": "E-commerce Website",
+        "company": "ERPGap PromtEQUATION",
+        "role": "Software Engineer",
+        "overview": "Led the development of a scalable e-commerce platform designed to handle high traffic and large product catalogs",
+        "technologies": "Nuxt JS, Scss, Docker, Python, Redis Caching",
+        "url": "www.gevenhout.nl",
         "effect": "fade-up",
         "duration": "500",
         "delay": "200"
       },
       {
-        "imgLink": "./images/portfolio/portfolio2.jpg",
-        "imgLinkLg": "./images/portfolio/portfolio2_lg.jpg",
-        "title": "Product Design",
-        "subTitle": "Design / Marketing",
+        "imgLink": "./images/portfolio/portfolio3.jpg",
+        "imgLinkLg": "./images/portfolio/portfolio3.jpg",
+        "title": "Cehrt Workspace",
+        "subTitle": "Project Management System",
         "effect": "fade-up",
         "duration": "500",
         "delay": "300"
@@ -328,7 +333,7 @@
       {
         "imgLink": "./img/isaac.jpg",
         "title": "Dr. Isaac Osumankinde",
-        "designation": "Professor of Computer Science Machine Learning and AI",
+        "designation": "Professor of Computer Science, Machine Learning and AI",
         "text": "Gideon excelled in machine learning and AI, consistently delivering high-quality work and innovative solutions. His dedication and expertise are exceptional, making him a standout performer."
       },
       {
