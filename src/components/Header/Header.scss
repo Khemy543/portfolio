@@ -21,6 +21,12 @@
   }
 }
 
+.st-site-branding {
+  img {
+    height: 60px;
+  }
+}
+
 @media screen and (max-width: 991px) {
   .st-main-header .container {
     max-width: 100%;

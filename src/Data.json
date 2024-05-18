@@ -162,10 +162,10 @@
   "portfolioData": {
     "portfolioItems": [
       {
-        "imgLink": "./images/portfolio/portfolio1.jpg",
-        "imgLinkLg": "./images/portfolio/portfolio1_lg.jpg",
-        "title": "Product Design",
-        "subTitle": "Design / Marketing",
+        "imgLink": "/img/gevenhout.png",
+        "imgLinkLg": "/img/gevenhout.png",
+        "title": "Gevenhout",
+        "subTitle": "E-commerce Website",
         "effect": "fade-up",
         "duration": "500",
         "delay": "200"
@@ -189,49 +189,13 @@
         "delay": "400"
       },
       {
-        "imgLink": "./images/portfolio/portfolio4.jpg",
-        "imgLinkLg": "./images/portfolio/portfolio4_lg.jpg",
+        "imgLink": "./images/portfolio/portfolio3.jpg",
+        "imgLinkLg": "./images/portfolio/portfolio3_lg.jpg",
         "title": "Product Design",
         "subTitle": "Design / Marketing",
         "effect": "fade-up",
         "duration": "500",
-        "delay": "500"
-      },
-      {
-        "imgLink": "./images/portfolio/portfolio5.jpg",
-        "imgLinkLg": "./images/portfolio/portfolio5_lg.jpg",
-        "title": "Product Design",
-        "subTitle": "Design / Marketing",
-        "effect": "fade-up",
-        "duration": "500",
-        "delay": "600"
-      },
-      {
-        "imgLink": "./images/portfolio/portfolio6.jpg",
-        "imgLinkLg": "./images/portfolio/portfolio6_lg.jpg",
-        "title": "Product Design",
-        "subTitle": "Design / Marketing",
-        "effect": "fade-up",
-        "duration": "500",
-        "delay": "700"
-      },
-      {
-        "imgLink": "./images/portfolio/portfolio1.jpg",
-        "imgLinkLg": "./images/portfolio/portfolio1_lg.jpg",
-        "title": "Product Design",
-        "subTitle": "Design / Marketing",
-        "effect": "fade-up",
-        "duration": "500",
-        "delay": "200"
-      },
-      {
-        "imgLink": "./images/portfolio/portfolio2.jpg",
-        "imgLinkLg": "./images/portfolio/portfolio2_lg.jpg",
-        "title": "Product Design",
-        "subTitle": "Design / Marketing",
-        "effect": "fade-up",
-        "duration": "500",
-        "delay": "300"
+        "delay": "400"
       },
       {
         "imgLink": "./images/portfolio/portfolio3.jpg",
@@ -243,51 +207,6 @@
         "delay": "400"
       },
       {
-        "imgLink": "./images/portfolio/portfolio4.jpg",
-        "imgLinkLg": "./images/portfolio/portfolio4_lg.jpg",
-        "title": "Product Design",
-        "subTitle": "Design / Marketing",
-        "effect": "fade-up",
-        "duration": "500",
-        "delay": "500"
-      },
-      {
-        "imgLink": "./images/portfolio/portfolio5.jpg",
-        "imgLinkLg": "./images/portfolio/portfolio5_lg.jpg",
-        "title": "Product Design",
-        "subTitle": "Design / Marketing",
-        "effect": "fade-up",
-        "duration": "500",
-        "delay": "600"
-      },
-      {
-        "imgLink": "./images/portfolio/portfolio6.jpg",
-        "imgLinkLg": "./images/portfolio/portfolio6_lg.jpg",
-        "title": "Product Design",
-        "subTitle": "Design / Marketing",
-        "effect": "fade-up",
-        "duration": "500",
-        "delay": "700"
-      },
-      {
-        "imgLink": "./images/portfolio/portfolio1.jpg",
-        "imgLinkLg": "./images/portfolio/portfolio1_lg.jpg",
-        "title": "Product Design",
-        "subTitle": "Design / Marketing",
-        "effect": "fade-up",
-        "duration": "500",
-        "delay": "200"
-      },
-      {
-        "imgLink": "./images/portfolio/portfolio2.jpg",
-        "imgLinkLg": "./images/portfolio/portfolio2_lg.jpg",
-        "title": "Product Design",
-        "subTitle": "Design / Marketing",
-        "effect": "fade-up",
-        "duration": "500",
-        "delay": "300"
-      },
-      {
         "imgLink": "./images/portfolio/portfolio3.jpg",
         "imgLinkLg": "./images/portfolio/portfolio3_lg.jpg",
         "title": "Product Design",
@@ -295,78 +214,6 @@
         "effect": "fade-up",
         "duration": "500",
         "delay": "400"
-      },
-      {
-        "imgLink": "./images/portfolio/portfolio4.jpg",
-        "imgLinkLg": "./images/portfolio/portfolio4_lg.jpg",
-        "title": "Product Design",
-        "subTitle": "Design / Marketing",
-        "effect": "fade-up",
-        "duration": "500",
-        "delay": "500"
-      },
-      {
-        "imgLink": "./images/portfolio/portfolio5.jpg",
-        "imgLinkLg": "./images/portfolio/portfolio5_lg.jpg",
-        "title": "Product Design",
-        "subTitle": "Design / Marketing",
-        "effect": "fade-up",
-        "duration": "500",
-        "delay": "600"
-      },
-      {
-        "imgLink": "./images/portfolio/portfolio6.jpg",
-        "imgLinkLg": "./images/portfolio/portfolio6_lg.jpg",
-        "title": "Product Design",
-        "subTitle": "Design / Marketing",
-        "effect": "fade-up",
-        "duration": "500",
-        "delay": "700"
-      },
-      {
-        "imgLink": "./images/portfolio/portfolio1.jpg",
-        "imgLinkLg": "./images/portfolio/portfolio1_lg.jpg",
-        "title": "Product Design",
-        "subTitle": "Design / Marketing",
-        "effect": "fade-up",
-        "duration": "500",
-        "delay": "200"
-      },
-      {
-        "imgLink": "./images/portfolio/portfolio2.jpg",
-        "imgLinkLg": "./images/portfolio/portfolio2_lg.jpg",
-        "title": "Product Design",
-        "subTitle": "Design / Marketing",
-        "effect": "fade-up",
-        "duration": "500",
-        "delay": "300"
-      },
-      {
-        "imgLink": "./images/portfolio/portfolio3.jpg",
-        "imgLinkLg": "./images/portfolio/portfolio3_lg.jpg",
-        "title": "Product Design",
-        "subTitle": "Design / Marketing",
-        "effect": "fade-up",
-        "duration": "500",
-        "delay": "400"
-      },
-      {
-        "imgLink": "./images/portfolio/portfolio4.jpg",
-        "imgLinkLg": "./images/portfolio/portfolio4_lg.jpg",
-        "title": "Product Design",
-        "subTitle": "Design / Marketing",
-        "effect": "fade-up",
-        "duration": "500",
-        "delay": "500"
-      },
-      {
-        "imgLink": "./images/portfolio/portfolio5.jpg",
-        "imgLinkLg": "./images/portfolio/portfolio5_lg.jpg",
-        "title": "Product Design",
-        "subTitle": "Design / Marketing",
-        "effect": "fade-up",
-        "duration": "500",
-        "delay": "600"
       }
     ]
   },

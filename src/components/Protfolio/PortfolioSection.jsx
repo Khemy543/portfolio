@@ -50,7 +50,7 @@ const PortfolioSection = ({ data }) => {
         <SectionHeading title={'Portfolio'} />
         <div className="container">
           <div className="row">
-            {visibleItems.map((element, index) => (
+            {portfolioItems.map((element, index) => (
               <SinglePortfolio data={element} key={index} getData={getData} />
             ))}
             <div className="col-lg-12 text-center">
