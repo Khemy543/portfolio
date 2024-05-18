@@ -467,40 +467,28 @@
     },
     "informations": [
       {
-        "imgLink": "./images/client/client1.png",
-        "title": "Richard Miles",
-        "designation": "Chairman",
-        "text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ullam accusamus autem itaque blanditiis enim debitis totam facilis reiciendis voluptate aspernatur!"
+        "imgLink": "./img/leonardo.jpeg",
+        "title": "Leonardo Muniz",
+        "designation": "Senior Software Developer",
+        "text": "Gideon delivered quality work and optimized performance at ERPGap PromtEQUATION. His dedication and expertise make him a valuable asset to any team."
       },
       {
-        "imgLink": "./images/client/client2.png",
-        "title": "Vesta Shufelt",
-        "designation": "Executive Director",
-        "text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ullam accusamus autem itaque blanditiis enim debitis totam facilis reiciendis voluptate aspernatur!"
+        "imgLink": "./img/enoch.jpeg",
+        "title": "Enoch Sutherland",
+        "designation": "Chief Technical Officer",
+        "text": "Gideon's exceptional problem-solving and attention to detail were invaluable to our team's success. His innovative solutions make him a top choice for software engineering roles."
       },
       {
-        "imgLink": "./images/client/client3.png",
-        "title": "Joseph Alves",
-        "designation": "Managing Director",
-        "text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ullam accusamus autem itaque blanditiis enim debitis totam facilis reiciendis voluptate aspernatur!"
+        "imgLink": "./img/isaac.jpg",
+        "title": "Dr. Isaac Osumankinde",
+        "designation": "Professor of Computer Science Machine Learning and AI",
+        "text": "Gideon excelled in machine learning and AI, consistently delivering high-quality work and innovative solutions. His dedication and expertise are exceptional, making him a standout performer."
       },
       {
-        "imgLink": "./images/client/client1.png",
-        "title": "Richard Miles",
-        "designation": "Chairman",
-        "text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ullam accusamus autem itaque blanditiis enim debitis totam facilis reiciendis voluptate aspernatur!"
-      },
-      {
-        "imgLink": "./images/client/client2.png",
-        "title": "Vesta Shufelt",
-        "designation": "Executive Director",
-        "text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ullam accusamus autem itaque blanditiis enim debitis totam facilis reiciendis voluptate aspernatur!"
-      },
-      {
-        "imgLink": "./images/client/client3.png",
-        "title": "Joseph Alves",
-        "designation": "Managing Director",
-        "text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ullam accusamus autem itaque blanditiis enim debitis totam facilis reiciendis voluptate aspernatur!"
+        "imgLink": "./img/mamphey.jpeg",
+        "title": "Kwakye Mamphey",
+        "designation": "Project Manager",
+        "text": "Gideon's professionalism and technical skills in frontend interfaces and database design were invaluable. His problem-solving and collaborative spirit greatly enhanced our team's performance"
       }
     ]
   },
