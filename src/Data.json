@@ -17,7 +17,7 @@
       "imgAuthor": "/img/gideon.jpg",
       "bgImgLink": "/images/background/hero-bg-1.jpg",
       "title": "Hi, I am <span>Gideon Assafuah</span>",
-      "text": "I specialize in full-stack development, machine learning, and artificial intelligence. With extensive experience in software engineering and a proven track record of optimizing performance and enhancing user engagement, I'm passionate about leveraging his technical skills to drive innovation in dynamic environments."
+      "text": "I specialize in full-stack development, machine learning, and artificial intelligence. With over <b>5</b> years of experience in software engineering and a proven track record of optimizing performance and enhancing user engagement, I'm passionate about leveraging my technical skills to drive innovation in dynamic environments"
     },
     "homeFourHero": {
       "imgAuthor": "/img/gideon.jpg",
@@ -168,9 +168,10 @@
         "subTitle": "E-commerce Website",
         "company": "ERPGap PromtEQUATION",
         "role": "Software Engineer",
-        "overview": "Led the development of a scalable e-commerce platform designed to handle high traffic and large product catalogs",
+        "overview": "Led the development of a scalable e-commerce platform designed to handle high traffic and large product catalogs.<br/><br/>Implemented caching strategies that improved application performance by 25%. Developed and maintained user interfaces with Nuxt.js, ensuring a responsive and intuitive user experience. Collaborated with QA engineers to identify and resolve software defects, reducing post-release issues by 30%. Optimized backend services to handle high traffic, ensuring reliability and scalability.<br/><br/><b>Challenges and Solutions:</b> <br/><b>Challenge:</b> Handling high volume of concurrent users. <br/> <b>Solution:</b> Implemented efficient caching and load balancing strategies. <br/><b>Challenge:</b> Ensuring seamless user experience across devices. <br/> <b>Solution:</b> Utilized responsive design principles and thorough testing.",
         "technologies": "Nuxt JS, Scss, Docker, Python, Redis Caching",
-        "url": "www.gevenhout.nl",
+        "url": "https://www.gevenhout.nl",
+        "tags": ["React.js", "Node.js", "MongoDB", "Express.js", "Docker", "CI/CD", "AWS"],
         "effect": "fade-up",
         "duration": "500",
         "delay": "200"

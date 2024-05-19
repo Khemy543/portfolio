@@ -16,7 +16,7 @@ const Hero3 = ({ data, socialData }) => {
               <img src={imgAuthor} alt="Author Image" />
             </div>
             <h1 data-aos="fade-up" data-aos-duration="800" data-aos-delay="300">{perser(title)}</h1>
-            <p data-aos="fade-up" data-aos-duration="800" data-aos-delay="400">{perser(text)}</p>
+            <p data-aos="fade-up" data-aos-duration="800" data-aos-delay="400">{perser(text.replace('5',  new Date().getFullYear() - 2019))}</p>
             <SocialLinks data={socialData} />
           </div>
         </div>

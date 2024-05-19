@@ -5,7 +5,37 @@
   color: $base-color4;
 }
 
-.modal-body img {
+.btn-close {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  cursor: pointer;
+  z-index: 10;
+}
+.modal-body {
+  padding: 50px !important;
+  img {
+    width: 100%;
+    margin-bottom: 50px;
+    border-radius: 30px;
+  }
+}
+.project-info {
+  background-color: #f3f5fc;
   width: 100%;
-  margin-bottom: 20px;
+  padding: 40px 45px 45px 20px;
+  border-radius: 10px;
+
+  &__item {
+    display: flex;
+    column-gap: 1rem;
+    margin-bottom: 10px;
+  }
+
+  .bold {
+    font-weight: 600;
+  }
+  .light {
+    font-weight: 300;
+  }
 }
