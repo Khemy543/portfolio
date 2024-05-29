@@ -1,6 +1,6 @@
-import PropTypes from 'prop-types';
-import './Skill.scss';
-import SectionHeading from '../SectionHeading/SectionHeading';
+import PropTypes from "prop-types";
+import "./Skill.scss";
+import SectionHeading from "../SectionHeading/SectionHeading";
 
 const Skill = ({ data }) => {
   const { title, text, skills } = data;
@@ -34,7 +34,10 @@ const Skill = ({ data }) => {
                   data-aos-delay={element.delay}
                 >
                   <div className="st-progressbar-heading">
-                    <h3 className="st-progressbar-title">{element.title}</h3>
+                    <h3
+                      className="st-progressbar-title"
+                      dangerouslySetInnerHTML={{ __html: element.title }}
+                    />
                     <div
                       className="st-progressbar-percentage "
                       data--duration="1.5s"

@@ -104,55 +104,37 @@
     "text": "I possess a diverse and robust set of technical skills, honed through rigorous academic training and extensive professional experience. My expertise spans various programming languages, development frameworks, and tools, enabling me to build efficient, scalable, and high-quality software solutions. Below is a detailed list of my technical skills:",
     "skills": [
       {
-        "title": "TypeScript",
+        "title": "Python, JavaScript, Typescript, C++",
         "effect": "fade-up",
         "duration": "500",
         "delay": "200"
       },
       {
-        "title": "JavaScript",
-        "effect": "fade-up",
-        "duration": "500",
-        "delay": "200"
-      },
-      {
-        "title": "C++",
-        "effect": "fade-up",
-        "duration": "500",
-        "delay": "300"
-      },
-      {
-        "title": "C#",
-        "effect": "fade-up",
-        "duration": "500",
-        "delay": "400"
-      },
-      {
-        "title": "React.js",
+        "title": "React.js, Vue.js, Angular, HTML, CSS, SCSS",
         "effect": "fade-up",
         "duration": "500",
         "delay": "500"
       },
       {
-        "title": "Vue.js",
+        "title": "Node.js, Express.js, Flask",
         "effect": "fade-up",
         "duration": "500",
         "delay": "600"
       },
       {
-        "title": "HTML CSS",
+        "title": "MySQL, MongoDB, PostgreSQL",
         "effect": "fade-up",
         "duration": "500",
         "delay": "700"
       },
       {
-        "title": "Node.js",
+        "title": "Scikit-learn, TensorFlow",
         "effect": "fade-up",
         "duration": "500",
         "delay": "700"
       },
       {
-        "title": "Express.js",
+        "title": "Docker, Kubernetes, AWS, CI/CD",
         "effect": "fade-up",
         "duration": "500",
         "delay": "700"

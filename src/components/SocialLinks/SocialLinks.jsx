@@ -10,7 +10,7 @@ const SocialLinks = ({ data }) => {
   };
 
   return (
-    <div className="st-social-link">
+    <div data-aos="fade-up" data-aos-duration="800" data-aos-delay="500" className="st-social-link">
       {data.map((item, index) => (
         <Link
           to={item.link}

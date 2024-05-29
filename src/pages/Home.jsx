@@ -9,12 +9,11 @@ import Contact from "../components/Contact/Contact";
 import PortfolioSection from '../components/Protfolio/PortfolioSection';
 import Hero from '../components/Hero/Hero';
 
-const Home = () => {
-  const { heroData, aboutData, serviceData, skillData, portfolioData, blogData, resumeData, reviewData, contactData, socialData } = data;
+const Home3 = () => {
+  const { heroData, aboutData, serviceData, skillData, portfolioData, blogData, resumeData, reviewData, contactData, socialData, socialData2 } = data;
   return (
     <>
-      <div className="st-height-b80 st-height-lg-b80"></div>
-      <Hero data={heroData.homeOneHero} socialData={socialData} />
+      <Hero data={heroData.homeThreeHero} socialData={socialData} />
       <About data={aboutData} data-aos="fade-right" />
       <Iconbox data={serviceData} data-aos="fade-right" />
       <Skill data={skillData} data-aos="fade-right" />
@@ -27,4 +26,4 @@ const Home = () => {
   )
 }
 
-export default Home;
+export default Home3;
