@@ -46,10 +46,13 @@ To run this project locally, follow these steps:
    cd react-portfolio
 
 2. **Install Dependencies**
-    ```yarn install
+    ```bash
+    yarn install
 
 3. **Start the development server:**
-    ```yarn start
+    ```bash
+    yarn start
 
 4. **Open your browser and navigate to:**
-    ```http://localhost:3000
+    ```bash
+    http://localhost:3000
