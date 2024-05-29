@@ -8,10 +8,6 @@ Welcome to my personal portfolio built with React.js! This project showcases my 
 - [Features](#features)
 - [Technologies](#technologies)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Projects](#projects)
-- [Contact](#contact)
-- [License](#license)
 
 ## About
 
