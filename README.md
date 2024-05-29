@@ -30,9 +30,9 @@ This portfolio is designed to provide a comprehensive overview of my work and sk
 This project is built with the following technologies:
 
 - **React.js:** JavaScript library for building user interfaces.
-- **HTML5 & CSS3:** Markup and styling of the application.
+- **HTML5:** Markup and styling of the application.
 - **JavaScript (ES6+):** Core language used for development.
-- **Bootstrap:** Front-end component library for responsive design.
+- **SASS:** Front-end component library for responsive design.
 - **Node.js & npm:** Environment and package manager for development.
 - **EmailJS:** Service for sending emails from the contact form.
 
@@ -44,3 +44,12 @@ To run this project locally, follow these steps:
    ```bash
    git clone https://github.com/your-username/react-portfolio.git
    cd react-portfolio
+
+2. **Install Dependencies**
+    ```yarn install
+
+3. **Start the development server:**
+    ```yarn start
+
+4. **Open your browser and navigate to:**
+    ```http://localhost:3000
