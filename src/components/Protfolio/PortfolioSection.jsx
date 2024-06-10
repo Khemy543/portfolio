@@ -53,7 +53,7 @@ const PortfolioSection = ({ data }) => {
             {portfolioItems.map((element, index) => (
               <SinglePortfolio data={element} key={index} getData={getData} />
             ))}
-            <div className="col-lg-12 text-center">
+            {/* <div className="col-lg-12 text-center">
               <div className="st-portfolio-btn">
                 {showLoadMore && (
                   <button
@@ -64,7 +64,7 @@ const PortfolioSection = ({ data }) => {
                   </button>
                 )}
               </div>
-            </div>
+            </div> */}
           </div>
         </div>
         <div className="st-height-b100 st-height-lg-b80"></div>
