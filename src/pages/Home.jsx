@@ -15,7 +15,7 @@ const Home3 = () => {
     <>
       <Hero data={heroData.homeThreeHero} socialData={socialData} />
       <About data={aboutData} data-aos="fade-right" />
-      <Iconbox data={serviceData} data-aos="fade-right" />
+     {/*  <Iconbox data={serviceData} data-aos="fade-right" /> */}
       <Skill data={skillData} data-aos="fade-right" />
       <Resume data={resumeData} />
       <PortfolioSection data={portfolioData} data-aos="fade-right" />

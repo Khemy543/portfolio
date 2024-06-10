@@ -7,7 +7,7 @@ const SingleBlog = ({ element }) => {
   return (
     <div className={`st-post-single st-style1`}>
       <Link to={href} className="st-post-thumb st-zoom">
-        <img src={imgLink} className="st-zoom-in" alt="blog1" />
+        <img src={imgLink} className="st-zoom-in" alt="blog1"/>
       </Link>
       <div className="st-post-info">
         <div className="st-post-date">

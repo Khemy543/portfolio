@@ -228,17 +228,17 @@
     },
     "informations": [
       {
-        "imgLink": "./images/blog/blog1.jpg",
-        "designation": "Admin",
-        "date": "07-03-2023",
-        "title": "latest trends in Graphic design according to you?",
+        "imgLink": "./images/blog/seo.jpg",
+        "designation": "Gideon Assafuah",
+        "date": "05-10-2024",
+        "title": "Search Engine Optimization (SEO) for Frontend Development: A Comprehensive Guide",
         "href": "/blog/blog-details"
       },
       {
         "imgLink": "./images/blog/blog2.jpg",
-        "designation": "Admin",
-        "date": "07-03-2023",
-        "title": "What are the latest trends in Graphic design according to you?",
+        "designation": "Gideon Assafuah",
+        "date": "06-10-2024",
+        "title": "Optimizing Performance in React and Vue Applications",
         "href": "/blog/blog-details"
       },
       {
@@ -246,27 +246,6 @@
         "designation": "Admin",
         "date": "07-03-2023",
         "title": "Trends in Graphic design according to you?",
-        "href": "/blog/blog-details"
-      },
-      {
-        "imgLink": "./images/blog/blog1.jpg",
-        "designation": "Admin",
-        "date": "07-03-2023",
-        "title": "What are the latest trends in Graphic design according to you?",
-        "href": "/blog/blog-details"
-      },
-      {
-        "imgLink": "./images/blog/blog2.jpg",
-        "designation": "Admin",
-        "date": "07-03-2023",
-        "title": "The latest trends in Graphic design according to you?",
-        "href": "/blog/blog-details"
-      },
-      {
-        "imgLink": "./images/blog/blog3.jpg",
-        "designation": "Admin",
-        "date": "07-03-2023",
-        "title": "What are the latest trends in Graphic design according to you?",
         "href": "/blog/blog-details"
       }
     ]
